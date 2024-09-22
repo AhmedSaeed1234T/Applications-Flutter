@@ -53,7 +53,7 @@ class _PointCounterState extends State<PointCounter> {
                             ),
                           ),
                           SizedBox(
-                            height: 24,
+                            height: 44,
                           ),
                           ElevatedButton(
                             style: ElevatedButton.styleFrom(
@@ -142,7 +142,7 @@ class _PointCounterState extends State<PointCounter> {
                             ),
                           ),
                           SizedBox(
-                            height: 24,
+                            height: 44,
                           ),
                           ElevatedButton(
                             style: ElevatedButton.styleFrom(
@@ -213,7 +213,7 @@ class _PointCounterState extends State<PointCounter> {
                   ),
                 ),
                 SizedBox(
-                  height: 72,
+                  height: 94,
                 ),
                 ElevatedButton(
                   style: ElevatedButton.styleFrom(
@@ -236,9 +236,9 @@ class _PointCounterState extends State<PointCounter> {
                   ),
                 ),
                 SizedBox(
-                  height: 44,
+                  height: 124,
                 ),
-                Text("Created By Ahmed Darwish"),
+                Text("Created By @ Ahmed Darwish"),
               ],
             )),
       ),
